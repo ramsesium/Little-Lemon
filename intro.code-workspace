@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../intro"
+		},
+		{
+			"path": "../../../../../../../Library/Mobile Documents/com~apple~CloudDocs/LittleLemon"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "home"
+	}
+}
